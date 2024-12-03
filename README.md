@@ -15,7 +15,7 @@
 <h2 align="center">💼 Featured Projects</h2>
 
 ### 🌐 **Haki E-Commerce Website**  
-[Live Demo](#) | [Source Code](#)  
+[Live ](https://hakistore.netlify.app/) | [Source Code](https://github.com/Parvpaigwar/Haki-Ecommerce-website)  
 **A sleek and responsive online shopping platform.**  
 - **Responsive Design**: Seamlessly adapts to desktop, tablet, and mobile screens.  
 - **Modern UI/UX**: Clean layouts and intuitive animations for an enhanced shopping experience.  
@@ -26,7 +26,7 @@ This project demonstrates my ability to create user-friendly interfaces with an 
 ---
 
 ### 🎧 **Spotify Clone**  
-[Live Demo](#) | [Source Code](#)  
+[Live ](https://parvspotify.netlify.app/) | [Source Code](https://github.com/Parvpaigwar/Spotify-Clone)  
 **An interactive music streaming platform replicating Spotify’s core features.**  
 - **Music Playback**: Play, pause, skip, shuffle, and repeat tracks seamlessly.  
 - **Playlist Management**: Create and manage playlists with ease.  
@@ -37,7 +37,7 @@ This project highlights my front-end development skills and passion for deliveri
 ---
 
 ### 🛒 **Grocery Store Management System**  
-[Live Demo](#) | [Source Code](#)  
+[Live Demo](https://github.com/Parvpaigwar/Grocesory-Management-System?tab=readme-ov-file#demo-video) | [Source Code](https://github.com/Parvpaigwar/Grocesory-Management-System)  
 **A full-stack web application for efficient store management.**  
 - **Backend**: Built with Flask for seamless server-side processing.  
 - **Database**: Utilizes MySQL for secure and efficient data management.  
@@ -48,7 +48,7 @@ A practical application showcasing my ability to integrate backend and database 
 ---
 
 ### 🏡 **House Price Prediction Model**  
-[Source Code](#)  
+[Source Code](https://github.com/Parvpaigwar/House-Price-Prediction)  
 **An AI-driven solution to predict house sale prices using Linear Regression.**  
 - **Dataset**: Features multiple attributes of houses to predict accurate sale prices.  
 - **Model**: Implements linear regression for robust prediction performance.  
