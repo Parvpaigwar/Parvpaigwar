@@ -6,7 +6,7 @@
 
 - 📫 Reach me at **parvpaigwar@gmail.com**
 
-- 📄 Learn more about my experience [here](file:///C:/Users/parvp/AppData/Local/Microsoft/Windows/INetCache/IE/945ZSHNV/Resume_New[1].pdf)
+- 📄 Learn more about my experience [here](https://drive.google.com/file/d/1GutoT8hwCTYVv97gZKjJP1G_DzEtzEwp/view?usp=drive_link)
 
 - ⚡ Fun fact: **I know AI pretty well!**
 
