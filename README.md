@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Parv</h1>
-<h3 align="center">A passionate Backend Developer and Machine Learning Enthusiast from India</h3>
+<h3 align="center">A passionate Full stack python web Developer and Machine Learning Enthusiast from India</h3>
 
 - 👨‍💻 Explore all my projects at [My GitHub Portfolio](https://github.com/Parvpaigwar)
 
