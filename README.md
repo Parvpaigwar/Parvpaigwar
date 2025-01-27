@@ -6,7 +6,7 @@
 
 - 📫 Reach me at **parvpaigwar@gmail.com**
 
-- 📄 Learn more about my experience [here](https://drive.google.com/file/d/1GutoT8hwCTYVv97gZKjJP1G_DzEtzEwp/view?usp=drive_link)
+- 📄 Learn more about my experience [here](https://drive.google.com/file/d/1uXcB86kRr9anORfZgb384bPPKhj9YnG9/view?usp=sharing)
 
 - ⚡ Fun fact: **I know AI pretty well!**
 
